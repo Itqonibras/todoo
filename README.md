@@ -1,16 +1,5 @@
-# todoo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project yang saya buat kali ini sangat banyak memberi saya pelajaran baru. Banyak widget widget baru
+yang saya pelajari, serta bagaimana cara penggunaan sql pada aplikasi flutter. Referensi belajar
+yang saya gunakan berasal dari berbagai sumber seperti youtube, stackoverflow, dan masih banyak
+lagi. Saya juga banyak mendapatkan inspirasi desain dari website dribbble.com yang saya gunakan pada
+aplikasi ini.
